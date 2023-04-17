@@ -2,7 +2,7 @@ import openai
 import gradio
 import config
 
-openai.api_key = config.API_KEY
+openai.api_key = config.API_KEY #i couldnt add the files to gitignore so that it would hide the api key, so i didnt include it here.
 
 messages = [{"role": "system", "content": "You are Vito Corleone from the Godfather, act wise and help people who come to you, and also speak like him"}]
 
