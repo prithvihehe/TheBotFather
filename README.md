@@ -9,3 +9,5 @@ Also, since i dont know how to hide my api keys, everytime i upload my file to g
 https://huggingface.co/spaces/prithvihehe/TheBotFather/tree/main
 
 this is the link where my site is hosted: https://prithvihehe-thebotfather.hf.space
+
+this is my video link: https://drive.google.com/file/d/1h7BpE--wCwL0c0MuX7xYWYkQruhvucsQ/view?usp=sharing
